@@ -16,3 +16,6 @@ Updated for recent build 4 July 2022 and above.
 
 - Black Status bar font is fixed, it is white now!
 - several smaller tweaks for contrast readability
+
+**Download**
+https://github.com/ScyllaHide/X64dbg_Acid_Lime_Theme_Remixed/archive/refs/heads/master.zip
