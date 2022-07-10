@@ -2,7 +2,7 @@
 # ThunderCls's Acid Lime Theme remixed
 
 This x64dbg Theme is a remix of ThunderCls's theme (https://github.com/ThunderCls/x64dbg_acid_lime_theme).
-Updated for recent build 4 July 2022 and above.
+Updated for recent build 10 July 2022 and above.
 
 **How to install**
 
@@ -16,6 +16,7 @@ Updated for recent build 4 July 2022 and above.
 
 - Black Status bar font is fixed, it is white now!
 - several smaller tweaks for contrast readability
+- White icons! You need atleast the 10 July 2022 release for that.
 
 **Download**
 https://github.com/ScyllaHide/X64dbg_Acid_Lime_Theme_Remixed/archive/refs/heads/master.zip
