@@ -6,17 +6,16 @@ Updated for recent build 10 July 2022 and above.
 
 **How to install**
 
-1. Copy content of color.ini into your x64dbg.ini/x32dbg.ini, also with **[Disassembler] \\ Uppercase=1**  if you wish the Title Menu to have uppercase letters, you can also set: lowercase=1, so all in lowercase letter.
+1. Copy content of folder *Acid_Lime* to theme folder.
 
-2. Copy content of folder *Acid_Lime* to theme folder.
-
-3. Select Acid Lime via the theme menu.
+2. Select Acid Lime via the theme menu.
 
 **What was modified?**
 
 - Black Status bar font is fixed, it is white now!
 - several smaller tweaks for contrast readability
 - White icons! You need atleast the 10 July 2022 release for that.
+- Everything in the *Acid_Lime* folder is the theme, no more copying and pasting something.
 
 **Download**
 https://github.com/ScyllaHide/X64dbg_Acid_Lime_Theme_Remixed/archive/refs/heads/master.zip
