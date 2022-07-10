@@ -48,12 +48,38 @@ QWidget:item:selected
 }
 
 /* status bar */
-QStatusBar, QStatusBar::handle, QStatusBar::item{
-  border: none;
+QStatusBar {
+    background-color:#a4d206;
 }
 
 QStatusBar QLabel {
-    color: white;
+    background-color:#a4d206;
+    color: black;
+}
+
+QStatusBar QLabel[state="paused"] {
+    background-color:#ca5100;
+    color: black;
+}
+
+DebugStatusLabel[state="initialized"] {
+    color: black;
+    background-color: #a4d206;
+}
+
+DebugStatusLabel[state="paused"] {
+    color: black;
+    background-color: #ff0000;
+}
+
+DebugStatusLabel[state="running"] {
+    color: black;
+    background-color: #4a8f47;
+}
+
+DebugStatusLabel[state="stopped"] {
+    color: black;
+    background-color: #ff0000;
 }
 
 /* tabs bar */
