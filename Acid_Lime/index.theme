@@ -1,8 +1,8 @@
 [Icon Theme]
-Name=Dark
-Comment=Dark icon theme
+Name=Acid_Lime
+Comment=Icon theme
 Directories=icons
-Inherits=Default
+Inherits=Dark
 
 [icons]
 Size=16
