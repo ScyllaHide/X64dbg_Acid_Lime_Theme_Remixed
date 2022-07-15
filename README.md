@@ -20,3 +20,14 @@ Updated for recent build 10 July 2022 and above.
 
 **Download or Clone**
 https://github.com/ScyllaHide/X64dbg_Acid_Lime_Theme_Remixed/archive/refs/heads/master.zip
+
+**Known Issues**
+This will hopefully fixed in the future
+
+- check symbol in various places is black on black background
+- Table titles are black on black (breakpoint, references, etc)
+- probably more, feel free to report
+
+**Planned Improvements**
+
+- Lime icons, thanks to mrfearless (add github link)
